@@ -1,0 +1,14 @@
+{% extends "www/base.html" %}
+{% load static unicorn %}
+
+{% block content %}
+
+<h2>Index</h2>
+
+<button onclick="Unicorn.call('unicorn.components.hello_world.HelloWorldView', 'set_name');">Method call from outside of the component</button>
+
+<button onclick="alert(Unicorn.getReturnValue('unicorn.components.hello_world.HelloWorldView'));">Last return value from component</button>
+
+{% unicorn 'unicorn.components.hello_world.HelloWorldView' %}
+
+{% endblock content %}

@@ -1,0 +1,117 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "adamghill",
+      "name": "Adam Hill",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/317045?v=4",
+      "profile": "https://adamghill.com",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "zodman",
+      "name": "Andres Vargas",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44167?v=4",
+      "profile": "https://python3.ninja",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "edelvalle",
+      "name": "Eddy Ernesto del Valle Pino",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6555851?v=4",
+      "profile": "http://iskra.ml",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "yaseralnajjar",
+      "name": "Yaser Al-Najjar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/10493809?v=4",
+      "profile": "https://www.linkedin.com/in/yaser-al-najjar-429b9096/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sbidy",
+      "name": "Stephan Traub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1077364?v=4",
+      "profile": "https://github.com/sbidy",
+      "contributions": [
+        "test"
+      ]
+    },
+    {
+      "login": "frbor",
+      "name": "Fredrik Borg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2320183?v=4",
+      "profile": "https://github.com/frbor",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "mbacicc",
+      "name": "mbacicc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46646960?v=4",
+      "profile": "https://github.com/mbacicc",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "GitRon",
+      "name": "Ron",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3176075?v=4",
+      "profile": "http://ambient-innovation.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Franziskhan",
+      "name": "Franziskhan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86062014?v=4",
+      "profile": "https://github.com/Franziskhan",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "joshiggins",
+      "name": "Josh Higgins",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5124298?v=4",
+      "profile": "https://github.com/joshiggins",
+      "contributions": [
+        "test",
+        "code"
+      ]
+    },
+    {
+      "login": "MayasMess",
+      "name": "Amayas Messara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51958712?v=4",
+      "profile": "https://github.com/MayasMess",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "django-unicorn",
+  "projectOwner": "adamghill",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

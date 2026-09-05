@@ -1,0 +1,20 @@
+root = true
+
+[*]
+end_of_line = lf // Helps keep Windows, Mac, Linux on the same page since they handle end of line differently
+charset = utf-8
+trim_trailing_whitespace = true // Auto-trims trailing whitespace
+insert_final_newline = true // Auto-adds a blank newline to the end of a file
+
+[*.scss]
+indent_size = 2 // More common to see 2 spaces in SCSS, HTML, and JS 
+
+[*.html]
+indent_size = 2
+
+[*.js]
+indent_size = 2
+
+[*.py]
+indent_style = space
+indent_size = 4
